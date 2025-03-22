@@ -41,7 +41,8 @@ class ContentShortEngine(AbstractContentEngine):
             8:  self._chooseBackgroundVideo,
             9:  self._prepareBackgroundAssets,
             10: self._prepareCustomAssets,
-            11: self._editAndRenderShort
+            11: self._editAndRenderShort,
+            12: self._addYoutubeMetadata,
         }
 
     @abstractmethod
