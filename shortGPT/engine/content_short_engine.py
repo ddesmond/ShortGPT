@@ -143,9 +143,12 @@ class ContentShortEngine(AbstractContentEngine):
                                                           'set_time_end': timing[1]})
             if self._db_num_images:
                 for timing, image_url in self._db_timed_image_urls:
-                    videoEditor.addEditingStep(EditingStep.SHOW_IMAGE, {'url': image_url,
-                                                                        'set_time_start': timing[0],
-                                                                        'set_time_end': timing[1]})
+                    #videoEditor.addEditingStep(EditingStep.SHOW_IMAGE, {'url': image_url,
+                    #                                                    'set_time_start': timing[0],
+                     #                                                   'set_time_end': timing[1]})
+                    print("Pass adding images for shorts")
+                    print(self._db_num_images)
+ 
             print("***** SCHEMA FOR RENDERING ****")
             print(videoEditor.dumpEditingSchema())
             print("***** SCHEMA FOR RENDERING ****")
