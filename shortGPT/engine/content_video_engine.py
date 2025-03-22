@@ -144,8 +144,9 @@ class ContentVideoEngine(AbstractContentEngine):
     def _addMetadata(self):
         if not os.path.exists('videos/'):
             os.makedirs('videos')
-        self._db_yt_title, self._db_yt_description = gpt_yt.generate_title_description_dict(self._db_script)
-
+        #self._db_yt_title, self._db_yt_description = gpt_yt.generate_title_description_dict(self._db_script)
+        self._db_yt_title = "Minecraft facts"
+        self._db_yt_description = "Interesting Minecraft facts"
         now = datetime.datetime.now()
         date_str = now.strftime("%Y-%m-%d_%H-%M-%S")
         newFileName = f"videos/{date_str} - " + \
