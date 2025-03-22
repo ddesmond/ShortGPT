@@ -37,8 +37,18 @@
                 "type": "background video",
                 "ts": "2023-07-07 04:13:36"
             },
-            "Ski gameplay": {
-                "url": "https://www.youtube.com/watch?v=8ao1NAOVKTU",
+            "MC gameplay": {
+                "url": "hhtps://www.youtube.com/watch?v=duCrZk-gJvE",
+                "type": "background video",
+                "ts": "2023-07-07 04:54:16"
+            },
+            "MC 2": {
+                "url": "https://www.youtube.com/watch?v=0FaK-HO3Ysg",
+                "type": "background video",
+                "ts": "2023-07-07 04:54:16"
+            },
+            "MC 3": {
+                "url": "https://www.youtube.com/watch?v=r_xVjPRKZdA",
                 "type": "background video",
                 "ts": "2023-07-07 04:54:16"
             }
