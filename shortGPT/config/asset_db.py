@@ -40,7 +40,7 @@ class AssetDatabase:
         remote_assets._save({
             'subscribe animation':{
                 "type": AssetType.VIDEO.value,
-                "url": "https://www.youtube.com/watch?v=fITlAqhaQWU",
+                "url": "https://www.youtube.com/watch?v=CdXA3IAeElI",
                 "ts": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             }
         })
