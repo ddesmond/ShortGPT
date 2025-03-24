@@ -12,21 +12,21 @@
 		"actions": [
 			{
 				"type": "set_time_start",
-				"param": 3.5
+				"param": 2.5
 			},
 			{
 				"type": "resize",
 				"param": {
-					"new_size": 0.4
+					"new_size": 0.6
 				}
 			},
 			{
 				"type": "green_screen",
 				"param": {
 					"color": [
-						52,
+						0,
 						255,
-						20
+						1
 					],
 					"threshold": 100,
 					"stiffness": 5
