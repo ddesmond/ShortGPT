@@ -146,7 +146,7 @@ class CoreEditingEngine:
 
             if action['type'] == 'green_screen':
                 params = action['param']
-                color = params['color'] if  params['color'] else [52, 255, 20]
+                color = params['color'] if  params['color'] else [0, 255, 1]
                 thr = params["threshold"] if params["threshold"] else 100
                 s = params['stiffness'] if params['stiffness'] else 5
                 clip = clip.with_effects([vfx.MaskColor(color=color,threshold=thr, stiffness=s)])
