@@ -9,7 +9,7 @@
                 "required": true
             },
             "subscribe-animation": {
-                "path": "public/subscribe-animation.mp4",
+                "path": "public/subscribe-animation-update.mp4",
                 "type": "video",
                 "ts": "2023-07-03 21:37:53",
                 "required": true
