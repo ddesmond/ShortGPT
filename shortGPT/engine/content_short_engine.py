@@ -77,9 +77,10 @@ class ContentShortEngine(AbstractContentEngine):
 
     def _generateImageSearchTerms(self):
         self.verifyParameters(captionsTimed=self._db_timed_captions)
-        if self._db_num_images:
-            self._db_timed_image_searches = gpt_editing.getImageQueryPairs(
-                self._db_timed_captions, n=self._db_num_images)
+        return
+#        if self._db_num_images:
+#            self._db_timed_image_searches = gpt_editing.getImageQueryPairs(
+#                self._db_timed_captions, n=self._db_num_images)
 
     def _generateImageUrls(self):
         if self._db_timed_image_searches:
