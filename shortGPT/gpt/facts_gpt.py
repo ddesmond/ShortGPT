@@ -4,6 +4,7 @@ def generateFacts(facts_type):
     chat, system = gpt_utils.load_local_yaml_prompt('prompt_templates/facts_generator.yaml')
     chat = chat.replace("<<FACTS_TYPE>>", facts_type)
     result = gpt_utils.llm_completion(chat_prompt=chat, system=system, temp=1.3)
+    print(result)
     return result
 
 def generateFactSubjects(n):

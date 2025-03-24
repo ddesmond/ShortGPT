@@ -17,41 +17,97 @@
         },
         "2": {
             "_id": "remote_assets",
-            "Music joakim karud dreams": {
+            "MC music": {
                 "type": "background music",
-                "url": "https://www.youtube.com/watch?v=p56gqDhUYbU",
+                "url": "https://www.youtube.com/watch?v=u7kdVe8q5zs",
+                "ts": "2025-07-03 04:35:03"
+            },
+            "MT Parkour free": {
+                "type": "background video",
+                "url": "https://www.youtube.com/watch?v=u7kdVe8q5zs",
                 "ts": "2023-07-05 04:35:03"
             },
-            "Music dj quads": {
+            "MT Prag music": {
                 "type": "background music",
-                "url": "https://www.youtube.com/watch?v=uUu1NcSHg2E",
+                "url": "https://www.youtube.com/watch?v=wNhViqB-lGE",
+                "ts": "2023-07-05 04:35:03"
+            },
+            "MT Milano": {
+                "type": "background music",
+                "url": "https://www.youtube.com/watch?v=I2k4gBEjo74",
+                "ts": "2023-07-05 04:35:03"
+            },
+            "MT MilanoVideo": {
+                "type": "background video",
+                "url": "https://www.youtube.com/watch?v=I2k4gBEjo74",
+                "ts": "2023-07-05 04:35:03"
+            },
+            "MT Music berlin walk": {
+                "type": "background music",
+                "url": "https://www.youtube.com/watch?v=nCjpBXfvrtY",
                 "ts": "2023-07-05 05:03:44"
             },
-            "Car race gameplay": {
+            "MT Music Venezia walk": {
                 "type": "background video",
-                "url": "https://www.youtube.com/watch?v=gBsJA8tCeyc",
+                "url": "https://www.youtube.com/watch?v=0j76zwaZZy8",
                 "ts": "2023-07-04 23:07:44"
             },
-            "Minecraft jumping circuit": {
-                "url": "https://www.youtube.com/watch?v=Pt5_GSKIWQM",
+            "MIlano center walk MT": {
+                "url": "https://www.youtube.com/watch?v=1JH_ksXhJmw",
                 "type": "background video",
                 "ts": "2023-07-07 04:13:36"
             },
-            "MC gameplay": {
-                "url": "hhtps://www.youtube.com/watch?v=duCrZk-gJvE",
+            "MT Ibiza town": {
+                "url": "https://www.youtube.com/watch?v=KAbAcLUWOH8",
                 "type": "background video",
                 "ts": "2023-07-07 04:54:16"
             },
-            "MC 2": {
-                "url": "https://www.youtube.com/watch?v=0FaK-HO3Ysg",
+            "MT Verona walk": {
+                "url": "https://www.youtube.com/watch?v=KhXMaA8hq5o",
                 "type": "background video",
                 "ts": "2023-07-07 04:54:16"
             },
-            "MC 3": {
-                "url": "https://www.youtube.com/watch?v=r_xVjPRKZdA",
+            "MT Prag brigde walk": {
+                "url": "https://www.youtube.com/watch?v=KJXNDOBVkcM",
+                "type": "background video",
+                "ts": "2023-07-07 04:54:16"
+            },
+            "MT Berlin city walk": {
+                "url": "https://www.youtube.com/watch?v=ILsxFocmC8k",
+                "type": "background video",
+                "ts": "2023-07-07 04:54:16"
+            },
+            "MT Turska Taksim city walk": {
+                "url": "https://www.youtube.com/watch?v=erE-JzQUuVI",
+                "type": "background video",
+                "ts": "2023-07-07 04:54:16"
+            },
+            "MT Milano Centrale  walk": {
+                "url": "https://www.youtube.com/watch?v=POt_OpO9BFk",
+                "type": "background video",
+                "ts": "2023-07-07 04:54:16"
+            },
+            "MT SpiceBazar city walk": {
+                "url": "https://www.youtube.com/watch?v=IC-JwhXhjuc",
+                "type": "background video",
+                "ts": "2023-07-07 04:54:16"
+            },
+            "MT Rovinj city walk": {
+                "url": "https://www.youtube.com/watch?v=V-Q_-Mh60j4",
+                "type": "background video",
+                "ts": "2023-07-07 04:54:16"
+            },
+            "MT Istra VLOG": {
+                "url": "https://www.youtube.com/watch?v=yJES8ub8P7M",
+                "type": "background video",
+                "ts": "2023-07-07 04:54:16"
+            },
+            "MT Istra VLOG": {
+                "url": "https://www.youtube.com/watch?v=yovEKT5TDoA",
                 "type": "background video",
                 "ts": "2023-07-07 04:54:16"
             }
+
         }
     }
 }
